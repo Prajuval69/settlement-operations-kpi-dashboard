@@ -1,0 +1,8 @@
+owner,total_requests,pending_requests,high_priority_requests,completed_requests,average_processing_minutes,completion_rate_pct
+Aarav Mehta,511,28,159,445,3153.83,87.08
+Maya Chen,410,22,140,369,3039.04,90.0
+Sofia Rossi,274,14,82,243,1518.46,88.69
+Noah Williams,342,10,102,308,2340.38,90.06
+Emma Davis,151,8,41,133,3705.05,88.08
+Liam Carter,224,5,68,208,1820.34,92.86
+UNASSIGNED,8,0,4,8,98.25,100.0

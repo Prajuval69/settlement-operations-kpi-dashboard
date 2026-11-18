@@ -1,0 +1,9 @@
+currency,market,country,timezone,cutoff_time,warning_threshold_minutes,at_risk_threshold_minutes,business_day_flag,assumption_type
+USD,North America,US,America/New_York,16:00,120,30,True,SYNTHETIC_DEMO
+EUR,Eurozone,DE,Europe/Berlin,16:30,120,30,True,SYNTHETIC_DEMO
+GBP,United Kingdom,GB,Europe/London,15:30,120,30,True,SYNTHETIC_DEMO
+JPY,Japan,JP,Asia/Tokyo,15:00,90,20,True,SYNTHETIC_DEMO
+SGD,Singapore,SG,Asia/Singapore,16:00,90,20,True,SYNTHETIC_DEMO
+INR,India,IN,Asia/Kolkata,17:00,120,30,True,SYNTHETIC_DEMO
+AUD,Australia,AU,Australia/Sydney,15:30,90,20,True,SYNTHETIC_DEMO
+CAD,Canada,CA,America/Toronto,16:00,120,30,True,SYNTHETIC_DEMO

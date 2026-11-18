@@ -1,0 +1,9 @@
+currency,market,total_requests,pending_requests,cutoff_risk_count,cutoff_breach_count,sla_breach_count,completed_requests,completion_rate_pct,cutoff_breach_rate_pct,sla_breach_rate_pct
+JPY,Japan,228,14,18,127,50,191,83.77,55.7,21.93
+AUD,Australia,267,14,41,114,53,234,87.64,42.7,19.85
+GBP,United Kingdom,253,13,45,101,48,226,89.33,39.92,18.97
+SGD,Singapore,216,10,30,94,48,189,87.5,43.52,22.22
+EUR,Eurozone,250,9,43,89,46,229,91.6,35.6,18.4
+CAD,Canada,215,5,33,86,41,199,92.56,40.0,19.07
+USD,North America,230,13,49,80,45,208,90.43,34.78,19.57
+INR,India,261,9,43,79,60,238,91.19,30.27,22.99

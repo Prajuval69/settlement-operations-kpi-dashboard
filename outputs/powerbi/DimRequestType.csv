@@ -1,0 +1,6 @@
+request_type,request_type_description,active_flag
+PAYMENT_RELEASE,Payment release,True
+SSI_UPDATE,Standing settlement instruction update,True
+TRADE_REPAIR,Trade repair,True
+CASH_BREAK,Cash break investigation,True
+CONFIRMATION,Settlement confirmation,True
