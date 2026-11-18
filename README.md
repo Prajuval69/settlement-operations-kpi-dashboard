@@ -4,6 +4,10 @@ A complete synthetic-data portfolio project for monitoring operational requests 
 
 > All records, clients, owners, cutoff times, SLAs, severity mappings, workflows, and thresholds are fictional demo assumptions. The project has no connection to real bank systems, production settlement data, or real client data.
 
+## Live dashboard
+
+[Open the interactive Settlement Operations dashboard](https://prajuval69.github.io/settlement-operations-kpi-dashboard/)
+
 ## Quick start
 
 ```powershell
